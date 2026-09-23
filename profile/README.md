@@ -1,83 +1,125 @@
 <div align="center">
 
-# [Company Name]
+# Burapha Corporation
 
-**[Short tagline describing your company]**
+**Corporate & Technology for a better-connected future**
 
 </div>
 
-## English
+Burapha Corporation is a portfolio of corporate, technology, and business platforms designed to turn intelligence into practical value for people, businesses, and cities.
 
-### About Us
+## Architecture
 
-[Company Name] is a [company type] focused on [industry, product, or service]. We help [target customers] achieve [primary benefit] through reliable, practical, and forward-looking solutions.
+```text
+Burapha Corporation
+|
+|- Burapha.xyz  | COMPANY      | Corporate / Company Profile
+|- Burapha.app  | INTELLIGENCE | Data + AI + Analytics
+|- Burapha.org  | SMART CITY   | Urban Technology + Infrastructure
+|- Meesuk.com   | LIFESTYLE    | Living, Food, Home, and Wellness
+|- Rachan.com   | FINANCE      | Finance, Assets, and Investment
+`- Wanich.com   | COMMERCE     | Commerce, Business, and Markets
+```
 
-### Our Mission
+## Corporate
 
-To create meaningful value for our customers, partners, and communities through quality, innovation, and responsible growth.
+### [Burapha.xyz](https://burapha.xyz) - COMPANY
 
-### Our Vision
+Burapha.xyz is the corporate home of Burapha Corporation. It brings together our story, vision, mission, businesses, platforms, innovation, projects, sustainability, partners, careers, and contact information.
 
-To be a trusted leader in [industry or market] and a positive force for long-term progress.
+> **Burapha.xyz = who we are**
+
+## Technology Platforms
+
+### [Burapha.app](https://burapha.app) - INTELLIGENCE
+
+Burapha.app turns data into intelligence through Data Engineering, Data Platforms, Analytics, AI/ML, Decision Intelligence, Digital Twin, API and Integration, Automation, and IoT Data.
+
+> **Burapha.app = turning data into intelligence**
+
+### [Burapha.org](https://burapha.org) - SMART CITY
+
+Burapha.org applies intelligence to cities and infrastructure through Smart Governance, Mobility, Energy, Environment, Safety, Infrastructure, Living, Economy, Urban Data, and Digital Twin capabilities.
+
+> **Burapha.org = bringing intelligence to Smart City**
+
+## Business Portfolio
+
+### [Meesuk.com](https://meesuk.com) - LIFESTYLE
+
+**กินดีมีสุข · อยู่ดีมีสุข**
+
+Meesuk.com is a lifestyle platform covering Living, Food, Home, Wellness, Lifestyle Services, Real Estate, Home Services, and Life Experience. Meesuk is intentionally broader than real estate alone.
+
+### [Rachan.com](https://rachan.com) - FINANCE
+
+**การเงิน · สินทรัพย์ · การลงทุน**
+
+Rachan.com covers Accounting, Finance, Insurance, Investment, Lending, Asset Finance, and Personal and Business Finance.
+
+### [Wanich.com](https://wanich.com) - COMMERCE
+
+**การค้า · ธุรกิจ · ตลาด**
+
+Wanich.com covers Commerce, Marketplace, Retail, B2B, Wholesale, Cooperative Commerce, and Trade Services.
+
+## Brand Logic
+
+- **Burapha** - Corporate & Technology
+- **Meesuk** - Lifestyle
+- **Rachan** - Finance
+- **Wanich** - Commerce
+
+Together, **LIFESTYLE · FINANCE · COMMERCE** form a connected business portfolio supported by Burapha's corporate and technology platforms.
 
 ## Español
 
 ### Sobre nosotros
 
-[Company Name] es una [tipo de empresa] especializada en [sector, producto o servicio]. Ayudamos a [clientes objetivo] a lograr [beneficio principal] mediante soluciones fiables, prácticas y orientadas al futuro.
+Burapha Corporation reúne plataformas corporativas, tecnológicas y empresariales que convierten la inteligencia en valor práctico para las personas, las empresas y las ciudades.
 
-### Nuestra misión
-
-Crear valor significativo para nuestros clientes, socios y comunidades mediante la calidad, la innovación y un crecimiento responsable.
-
-### Nuestra visión
-
-Ser un referente de confianza en [sector o mercado] y una fuerza positiva para el progreso a largo plazo.
+Burapha.xyz representa la empresa; Burapha.app desarrolla Data, IA y analítica; Burapha.org impulsa la tecnología urbana y la infraestructura; y Meesuk, Rachan y Wanich forman nuestro portafolio de Lifestyle, Finance y Commerce.
 
 ## 中文
 
 ### 关于我们
 
-[Company Name] 是一家专注于[行业、产品或服务]的[公司类型]。我们通过可靠、务实并面向未来的解决方案，帮助[目标客户]实现[主要价值或目标]。
+Burapha Corporation 由企业、科技和业务平台组成，致力于将智能转化为服务个人、企业与城市的实际价值。
 
-### 我们的使命
-
-以品质、创新和负责任的增长，为客户、合作伙伴及社区创造有意义的价值。
-
-### 我们的愿景
-
-成为[行业或市场]中值得信赖的领先企业，为长期发展带来积极影响。
+Burapha.xyz 代表企业品牌；Burapha.app 专注于数据、人工智能和分析；Burapha.org 专注于城市科技与基础设施；Meesuk、Rachan 和 Wanich 分别构成生活方式、金融与商业业务组合。
 
 ## العربية
 
 ### نبذة عنا
 
-[Company Name] هي [نوع الشركة] تركز على [القطاع أو المنتج أو الخدمة]. نساعد [العملاء المستهدفين] على تحقيق [الفائدة الأساسية] من خلال حلول موثوقة وعملية ومستشرفة للمستقبل.
+تضم Burapha Corporation مجموعة من المنصات المؤسسية والتقنية والتجارية التي تحول الذكاء إلى قيمة عملية للأفراد والشركات والمدن.
 
-### رسالتنا
-
-تقديم قيمة حقيقية لعملائنا وشركائنا ومجتمعاتنا من خلال الجودة والابتكار والنمو المسؤول.
-
-### رؤيتنا
-
-أن نكون جهة رائدة وموثوقة في [القطاع أو السوق] وأن نساهم بصورة إيجابية في التقدم على المدى الطويل.
+تمثل Burapha.xyz الهوية المؤسسية، بينما تركز Burapha.app على البيانات والذكاء الاصطناعي والتحليلات، وتركز Burapha.org على تقنيات المدن والبنية التحتية. وتشكل Meesuk وRachan وWanich محفظة الأعمال في مجالات أسلوب الحياة والتمويل والتجارة.
 
 ## ภาษาไทย
 
 ### เกี่ยวกับเรา
 
-[Company Name] คือ[ประเภทธุรกิจ]ที่มุ่งเน้นด้าน[อุตสาหกรรม ผลิตภัณฑ์ หรือบริการ] เราช่วย[กลุ่มลูกค้าเป้าหมาย]ให้บรรลุ[ประโยชน์หรือเป้าหมายหลัก] ด้วยโซลูชันที่น่าเชื่อถือ ใช้งานได้จริง และพร้อมรองรับอนาคต
+Burapha Corporation คือกลุ่มแพลตฟอร์มด้าน Corporate, Technology และ Business ที่เปลี่ยน Intelligence ให้เป็นคุณค่าที่ใช้งานได้จริงสำหรับผู้คน ธุรกิจ และเมือง
 
-### พันธกิจ
+### โครงสร้างองค์กรและแบรนด์
 
-สร้างคุณค่าที่มีความหมายให้แก่ลูกค้า พันธมิตร และชุมชน ผ่านคุณภาพ นวัตกรรม และการเติบโตอย่างรับผิดชอบ
+- **Burapha.xyz - COMPANY**: Corporate และ Company Profile ของ Burapha Corporation ครอบคลุม About, Vision, Mission, Business, Platforms, Innovation, Projects, Sustainability, Partners, Careers และ Contact
+- **Burapha.app - INTELLIGENCE**: แพลตฟอร์ม Data และ AI ครอบคลุม Data Engineering, Data Platform, Analytics, AI/ML, Decision Intelligence, Digital Twin, API/Integration, Automation และ IoT Data
+- **Burapha.org - SMART CITY**: แพลตฟอร์มเมืองและโครงสร้างพื้นฐาน ครอบคลุม Smart Governance, Mobility, Energy, Environment, Safety, Infrastructure, Living, Economy, Urban Data และ Digital Twin
+- **Meesuk.com - LIFESTYLE**: กินดีมีสุข · อยู่ดีมีสุข ครอบคลุม Living, Food, Home, Wellness, Lifestyle Services, Real Estate, Home Services และ Life Experience โดยไม่จำกัดอยู่แค่ Real Estate
+- **Rachan.com - FINANCE**: การเงิน · สินทรัพย์ · การลงทุน ครอบคลุม Accounting, Finance, Insurance, Investment, Lending, Asset Finance และ Personal/Business Finance
+- **Wanich.com - COMMERCE**: การค้า · ธุรกิจ · ตลาด ครอบคลุม Commerce, Marketplace, Retail, B2B, Wholesale, Cooperative Commerce และ Trade Services
 
-### วิสัยทัศน์
+### Brand Logic
 
-เป็นองค์กรชั้นนำที่ได้รับความไว้วางใจใน[อุตสาหกรรมหรือตลาด] และเป็นพลังเชิงบวกต่อการพัฒนาอย่างยั่งยืนในระยะยาว
+**Burapha** คือ Corporate & Technology ส่วน **Meesuk**, **Rachan** และ **Wanich** คือ Business Portfolio ด้าน **LIFESTYLE · FINANCE · COMMERCE**
 
 ## Contact
 
-- Website: [https://example.com](https://example.com)
-- Email: [contact@example.com](mailto:contact@example.com)
-- Location: [City, Country]
+- Corporate: [burapha.xyz](https://burapha.xyz)
+- Intelligence: [burapha.app](https://burapha.app)
+- Smart City: [burapha.org](https://burapha.org)
+- Lifestyle: [meesuk.com](https://meesuk.com)
+- Finance: [rachan.com](https://rachan.com)
+- Commerce: [wanich.com](https://wanich.com)
