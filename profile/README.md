@@ -45,11 +45,11 @@ Burapha.org applies intelligence to cities and infrastructure through Smart Gove
 
 ## Business Portfolio
 
-### [Ounrak.com](https://ounrak.com) - PLACE
+### Ounrak.com - PLACE
 
 **กินดีมีสุข · อยู่ดีมีสุข**
 
-Ounrak.com is a lifestyle platform covering Living, Food, Home, Wellness, Lifestyle Services, Real Estate, Home Services, and Life Experience. Meesuk is intentionally broader than real estate alone.
+Ounrak.com is the PLACE platform for Property, Property Management, Living, and Services. Domain ownership and production linking remain pending verification.
 
 ### [Rachan.com](https://rachan.com) - FINANCE
 
@@ -107,19 +107,19 @@ Burapha Corporation คือกลุ่มแพลตฟอร์มด้า
 - **Burapha.xyz - COMPANY**: Corporate และ Company Profile ของ Burapha Corporation ครอบคลุม About, Vision, Mission, Business, Platforms, Innovation, Projects, Sustainability, Partners, Careers และ Contact
 - **Burapha.app - INTELLIGENCE**: แพลตฟอร์ม Data และ AI ครอบคลุม Data Engineering, Data Platform, Analytics, AI/ML, Decision Intelligence, Digital Twin, API/Integration, Automation และ IoT Data
 - **Burapha.org - SMART CITY**: แพลตฟอร์มเมืองและโครงสร้างพื้นฐาน ครอบคลุม Smart Governance, Mobility, Energy, Environment, Safety, Infrastructure, Living, Economy, Urban Data และ Digital Twin
-- **Ounrak.com - PLACE**: กินดีมีสุข · อยู่ดีมีสุข ครอบคลุม Living, Food, Home, Wellness, Lifestyle Services, Real Estate, Home Services และ Life Experience โดยไม่จำกัดอยู่แค่ Real Estate
+- **Ounrak.com - PLACE**: อสังหาริมทรัพย์ การบริหารจัดการทรัพย์สิน พื้นที่อยู่อาศัย และบริการที่เกี่ยวข้อง
 - **Rachan.com - FINANCE**: การเงิน · สินทรัพย์ · การลงทุน ครอบคลุม Accounting, Finance, Insurance, Investment, Lending, Asset Finance และ Personal/Business Finance
 - **Wanich.com - COMMERCE**: การค้า · ธุรกิจ · ตลาด ครอบคลุม Commerce, Marketplace, Retail, B2B, Wholesale, Cooperative Commerce และ Trade Services
 
 ### Brand Logic
 
-**Burapha** คือ Corporate & Technology ส่วน **Meesuk**, **Rachan** และ **Wanich** คือ Business Portfolio ด้าน **PLACE · FINANCE · COMMERCE**
+**Burapha** คือ Corporate & Technology ส่วน **Ounrak**, **Rachan** และ **Wanich** คือ Business Portfolio ด้าน **PLACE · FINANCE · COMMERCE**
 
 ## Contact
 
 - Corporate: [burapha.xyz](https://burapha.xyz)
 - Intelligence: [burapha.app](https://burapha.app)
 - Smart City: [burapha.org](https://burapha.org)
-- Lifestyle: [ounrak.com](https://ounrak.com)
+- PLACE: Ounrak.com (domain ownership pending verification)
 - Finance: [rachan.com](https://rachan.com)
 - Commerce: [wanich.com](https://wanich.com)
