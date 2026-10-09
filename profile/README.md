@@ -66,7 +66,7 @@ Wanich.com covers Commerce, Marketplace, Retail, B2B, Wholesale, Cooperative Com
 ## Brand Logic
 
 - **Burapha** - Corporate & Technology
-- **Meesuk** - Lifestyle
+- **Ounrak** - PLACE
 - **Rachan** - Finance
 - **Wanich** - Commerce
 
@@ -78,7 +78,7 @@ Together, **PLACE · FINANCE · COMMERCE** form a connected business portfolio s
 
 Burapha Corporation reúne plataformas corporativas, tecnológicas y empresariales que convierten la inteligencia en valor práctico para las personas, las empresas y las ciudades.
 
-Burapha.xyz representa la empresa; Burapha.app desarrolla Data, IA y analítica; Burapha.org impulsa la tecnología urbana y la infraestructura; y Meesuk, Rachan y Wanich forman nuestro portafolio de Lifestyle, Finance y Commerce.
+Burapha.xyz representa la empresa; Burapha.app desarrolla Data, IA y analítica; Burapha.org impulsa la tecnología urbana y la infraestructura; y Ounrak, Rachan y Wanich forman nuestro portafolio de PLACE, Finance y Commerce.
 
 ## 中文
 
@@ -86,7 +86,7 @@ Burapha.xyz representa la empresa; Burapha.app desarrolla Data, IA y analítica;
 
 Burapha Corporation 由企业、科技和业务平台组成，致力于将智能转化为服务个人、企业与城市的实际价值。
 
-Burapha.xyz 代表企业品牌；Burapha.app 专注于数据、人工智能和分析；Burapha.org 专注于城市科技与基础设施；Meesuk、Rachan 和 Wanich 分别构成生活方式、金融与商业业务组合。
+Burapha.xyz 代表企业品牌；Burapha.app 专注于数据、人工智能和分析；Burapha.org 专注于城市科技与基础设施；Ounrak、Rachan 和 Wanich 分别构成PLACE、金融与商业业务组合。
 
 ## العربية
 
@@ -94,7 +94,7 @@ Burapha.xyz 代表企业品牌；Burapha.app 专注于数据、人工智能和�
 
 تضم Burapha Corporation مجموعة من المنصات المؤسسية والتقنية والتجارية التي تحول الذكاء إلى قيمة عملية للأفراد والشركات والمدن.
 
-تمثل Burapha.xyz الهوية المؤسسية، بينما تركز Burapha.app على البيانات والذكاء الاصطناعي والتحليلات، وتركز Burapha.org على تقنيات المدن والبنية التحتية. وتشكل Meesuk وRachan وWanich محفظة الأعمال في مجالات أسلوب الحياة والتمويل والتجارة.
+تمثل Burapha.xyz الهوية المؤسسية، بينما تركز Burapha.app على البيانات والذكاء الاصطناعي والتحليلات، وتركز Burapha.org على تقنيات المدن والبنية التحتية. وتشكل Ounrak وRachan وWanich محفظة الأعمال في مجالات أسلوب الحياة والتمويل والتجارة.
 
 ## ภาษาไทย
 
