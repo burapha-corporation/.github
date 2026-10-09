@@ -16,7 +16,7 @@ Burapha Corporation
 |- Burapha.xyz  | COMPANY      | Corporate / Company Profile
 |- Burapha.app  | INTELLIGENCE | Data + AI + Analytics
 |- Burapha.org  | SMART CITY   | Urban Technology + Infrastructure
-|- Meesuk.com   | LIFESTYLE    | Living, Food, Home, and Wellness
+|- Ounrak.com   | PLACE    | Property, Property Management, Living, and Services
 |- Rachan.com   | FINANCE      | Finance, Assets, and Investment
 `- Wanich.com   | COMMERCE     | Commerce, Business, and Markets
 ```
@@ -45,11 +45,11 @@ Burapha.org applies intelligence to cities and infrastructure through Smart Gove
 
 ## Business Portfolio
 
-### [Meesuk.com](https://meesuk.com) - LIFESTYLE
+### [Ounrak.com](https://ounrak.com) - PLACE
 
 **กินดีมีสุข · อยู่ดีมีสุข**
 
-Meesuk.com is a lifestyle platform covering Living, Food, Home, Wellness, Lifestyle Services, Real Estate, Home Services, and Life Experience. Meesuk is intentionally broader than real estate alone.
+Ounrak.com is a lifestyle platform covering Living, Food, Home, Wellness, Lifestyle Services, Real Estate, Home Services, and Life Experience. Meesuk is intentionally broader than real estate alone.
 
 ### [Rachan.com](https://rachan.com) - FINANCE
 
@@ -70,7 +70,7 @@ Wanich.com covers Commerce, Marketplace, Retail, B2B, Wholesale, Cooperative Com
 - **Rachan** - Finance
 - **Wanich** - Commerce
 
-Together, **LIFESTYLE · FINANCE · COMMERCE** form a connected business portfolio supported by Burapha's corporate and technology platforms.
+Together, **PLACE · FINANCE · COMMERCE** form a connected business portfolio supported by Burapha's corporate and technology platforms.
 
 ## Español
 
@@ -107,19 +107,19 @@ Burapha Corporation คือกลุ่มแพลตฟอร์มด้า
 - **Burapha.xyz - COMPANY**: Corporate และ Company Profile ของ Burapha Corporation ครอบคลุม About, Vision, Mission, Business, Platforms, Innovation, Projects, Sustainability, Partners, Careers และ Contact
 - **Burapha.app - INTELLIGENCE**: แพลตฟอร์ม Data และ AI ครอบคลุม Data Engineering, Data Platform, Analytics, AI/ML, Decision Intelligence, Digital Twin, API/Integration, Automation และ IoT Data
 - **Burapha.org - SMART CITY**: แพลตฟอร์มเมืองและโครงสร้างพื้นฐาน ครอบคลุม Smart Governance, Mobility, Energy, Environment, Safety, Infrastructure, Living, Economy, Urban Data และ Digital Twin
-- **Meesuk.com - LIFESTYLE**: กินดีมีสุข · อยู่ดีมีสุข ครอบคลุม Living, Food, Home, Wellness, Lifestyle Services, Real Estate, Home Services และ Life Experience โดยไม่จำกัดอยู่แค่ Real Estate
+- **Ounrak.com - PLACE**: กินดีมีสุข · อยู่ดีมีสุข ครอบคลุม Living, Food, Home, Wellness, Lifestyle Services, Real Estate, Home Services และ Life Experience โดยไม่จำกัดอยู่แค่ Real Estate
 - **Rachan.com - FINANCE**: การเงิน · สินทรัพย์ · การลงทุน ครอบคลุม Accounting, Finance, Insurance, Investment, Lending, Asset Finance และ Personal/Business Finance
 - **Wanich.com - COMMERCE**: การค้า · ธุรกิจ · ตลาด ครอบคลุม Commerce, Marketplace, Retail, B2B, Wholesale, Cooperative Commerce และ Trade Services
 
 ### Brand Logic
 
-**Burapha** คือ Corporate & Technology ส่วน **Meesuk**, **Rachan** และ **Wanich** คือ Business Portfolio ด้าน **LIFESTYLE · FINANCE · COMMERCE**
+**Burapha** คือ Corporate & Technology ส่วน **Meesuk**, **Rachan** และ **Wanich** คือ Business Portfolio ด้าน **PLACE · FINANCE · COMMERCE**
 
 ## Contact
 
 - Corporate: [burapha.xyz](https://burapha.xyz)
 - Intelligence: [burapha.app](https://burapha.app)
 - Smart City: [burapha.org](https://burapha.org)
-- Lifestyle: [meesuk.com](https://meesuk.com)
+- Lifestyle: [ounrak.com](https://ounrak.com)
 - Finance: [rachan.com](https://rachan.com)
 - Commerce: [wanich.com](https://wanich.com)
